@@ -1,0 +1,3 @@
+# MapStore
+Map Store é um sistema desenvolvido para facilitar o controle de pedidos e estoque de uma forma simples e eficiente. A aplicação permite cadastrar clientes, produtos e pedidos, organizando tudo de maneira centralizada. Sempre que um pedido é realizado, o sistema verifica automaticamente se há produtos em estoque, atualiza as quantidades e ainda aplica descontos progressivos em compras maiores.
+A proposta do projeto é simular o funcionamento de um pequeno e-commerce, oferecendo uma visão prática de como sistemas reais de gestão funcionam. Com isso, conseguimos unir conceitos de banco de dados relacionais, regras de negócio e boas práticas de programação em um só projeto, entregando uma solução que é ao mesmo tempo didática e funcional.
